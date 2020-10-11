@@ -1,0 +1,22 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "WikiStack w Allison",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felicia and Allison",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhfelicia/Wikistack_Oct2020.git"
+  },
+  "keywords": [
+    "wikistack"
+  ],
+  "bugs": {
+    "url": "https://github.com/bhfelicia/Wikistack_Oct2020/issues"
+  },
+  "homepage": "https://github.com/bhfelicia/Wikistack_Oct2020#readme"
+}
