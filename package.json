@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/bhfelicia/Wikistack_Oct2020/issues"
   },
-  "homepage": "https://github.com/bhfelicia/Wikistack_Oct2020#readme"
+  "homepage": "https://github.com/bhfelicia/Wikistack_Oct2020#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
 }
